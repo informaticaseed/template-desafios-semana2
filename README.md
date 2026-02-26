@@ -1,7 +1,7 @@
 # Desafios Semana 02 - Python + Beecrowd
 
-**Disciplinas:** LTP3 + QP3 (integradas)  
-**Professor:** Rafael Martins Alves  
+**Disciplinas:** LTP3 + QP3 (integradas)
+**Professor:** Rafael Martins Alves
 **CEMIC 2026**
 
 ---
